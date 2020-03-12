@@ -1,0 +1,27 @@
+@import "@styles/theme.scss";
+
+page, body {
+    height: 100%;
+}
+.container {
+    background-color: #ffffff;
+    position: relative;
+    height: 100%;
+}
+.greyContainer {
+    background-color: #f5f5f5;
+    position: relative;
+    height: 100%;
+}
+.mbLine {
+  margin-bottom: $dHeigt;
+}
+.dLine {
+  height: $dHeigt;
+}
+// .writeBackColor {
+//     background-color: #ffffff;
+// }
+// .darkBackColor {
+//     background-color: #f4f4f4;
+// }

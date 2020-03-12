@@ -1,0 +1,13 @@
+@import "@styles/theme.scss";
+@import "@styles/common.scss";
+
+.special-area {
+  background-color: $white;
+  padding-bottom: 20px;
+  margin-bottom: $dHeigt;
+}
+.list-container {
+  width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }

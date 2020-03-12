@@ -1,0 +1,17 @@
+@import "@styles/theme.scss";
+@import "@styles/common.scss";
+
+.home-seckill {
+  background-color: $white;
+  padding-bottom: 20px;
+  margin-bottom: $dHeigt;
+ 
+  .list-container {
+    width: 100%;
+    display: flex;
+  }
+}
+
+.scrollview {
+	width: 100%;
+}

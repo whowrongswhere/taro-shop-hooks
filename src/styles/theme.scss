@@ -1,0 +1,49 @@
+/**
+ * 自定义主题样式
+ * @author yaobei on 2020/03/03.
+ */
+
+//自定义Taro UI 主题样式
+$color-brand: #75a342;
+
+//字体大小
+$fontSize-12: 12px;
+$fontSize-14: 14px;
+$fontSize-16: 16px;
+$fontSize-18: 18px;
+$fontSize-20: 20px;
+$fontSize-22: 22px;
+$fontSize-24: 24px;
+$fontSize-26: 26px;
+$fontSize-28: 28px;
+$fontSize-30: 30px;
+$fontSize-32: 32px;
+$fontSize-34: 34px;
+$fontSize-36: 36px;
+$fontSize-38: 38px;
+$fontSize-40: 40px;
+
+
+$primary-color: #75a342;
+$disabled-color: #dddddd;
+
+$black: #000000;
+$white: #ffffff;
+$red: #f00;
+$lightGreen: #45c763;
+$grey: #f5f5f5;
+
+$text-color: #333333;
+$text-color-light: #666666;
+$text-color-lighter: #999999;
+
+$border-color: #e8e9e8;
+$border-radius: 4px;
+
+$image-bg: #f4f4f4;
+
+//分隔线高度
+$dHeigt: 8Px;
+
+/* 引入 Taro UI 默认样式 */
+@import "taro-ui/dist/style/index.scss";

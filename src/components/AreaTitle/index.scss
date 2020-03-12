@@ -1,0 +1,16 @@
+@import "@styles/theme.scss";
+
+.areaTitle {
+  border-left: 8px solid $color-brand;
+  padding-left: 10px;
+  padding: 15px 10px;
+  .leftText {
+    font-size: 38px;
+  }
+  .rightText {
+    color: $color-brand;
+    float: right;
+    font-size: 30px;
+
+  }
+}
